@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Kalpes-Bhandari/Portfolio/static/css/main.ddc30eb0.css",
+    "main.js": "/Kalpes-Bhandari/Portfolio/static/js/main.9ebc353b.js",
+    "static/js/453.1407b060.chunk.js": "/Kalpes-Bhandari/Portfolio/static/js/453.1407b060.chunk.js",
+    "index.html": "/Kalpes-Bhandari/Portfolio/index.html",
+    "main.ddc30eb0.css.map": "/Kalpes-Bhandari/Portfolio/static/css/main.ddc30eb0.css.map",
+    "main.9ebc353b.js.map": "/Kalpes-Bhandari/Portfolio/static/js/main.9ebc353b.js.map",
+    "453.1407b060.chunk.js.map": "/Kalpes-Bhandari/Portfolio/static/js/453.1407b060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ddc30eb0.css",
+    "static/js/main.9ebc353b.js"
+  ]
+}
